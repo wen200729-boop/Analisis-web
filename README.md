@@ -18,3 +18,6 @@ Analizaremos una base de datos sobre el comportamiento del comercio en linea y l
 
 
 4. **La empresa está perdiendo a sus clientes más valiosos:** la relación entre valor y abandono tiene forma de U. Los clientes Premium, que más compran y más gastan por pedido, abandonan en un 40 %, casi igual que los de menor valor. Se recomienda crear un programa de beneficios o fidelización para este grupo.
+
+
+5. **Existen señales de alerta temprana:** los clientes que abandonan más del 70 % de sus carritos y casi no abren correos tienen una tasa de abandono del 69,8 %. Además, hay 9.731 clientes "en riesgo" (sin compras en más de 60 días o con muy pocas visitas) que aún pueden recuperarse con campañas de reactivación.
