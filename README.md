@@ -4,6 +4,7 @@ Analizaremos una base de datos sobre el comportamiento del comercio en linea y l
 ## Integrantes: 
 - Wendy Otalvaro
 - Arthur Araujo
+- Maria Fernanda González 
 
 
 
